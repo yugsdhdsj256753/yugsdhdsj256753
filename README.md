@@ -1,16 +1,98 @@
 ## Hi there 👋
 
-<!--
-**yugsdhdsj256753/yugsdhdsj256753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yuvaraj Dhayal D
 
-Here are some ideas to get you started:
+### ⚡ Analog IC Design Enthusiast | VLSI Design | CMOS Circuit Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an M.Tech VLSI Design student passionate about **Analog and Mixed-Signal IC Design**. I enjoy designing, analyzing, and optimizing transistor-level CMOS circuits and understanding their behavior from first principles.
+
+My interests include **analog circuit design, CMOS amplifiers, biasing circuits, frequency compensation, stability analysis, and semiconductor circuit design**.
+
+---
+
+## 🔧 Expertise
+
+- 🔹 Analog & Mixed-Signal IC Design
+- 🔹 CMOS Analog Circuit Design
+- 🔹 Operational Amplifier Design
+- 🔹 Differential Amplifiers & Current Mirrors
+- 🔹 Biasing & Transistor Sizing
+- 🔹 Frequency Response & Stability Analysis
+- 🔹 Pole-Zero Analysis
+- 🔹 Miller Compensation
+- 🔹 Schematic Design & Simulation
+- 🔹 Analog Circuit Debugging
+
+---
+
+## 🚀 Projects
+
+### 🔬 Two-Stage CMOS Operational Amplifier
+
+Designed and analyzed a two-stage CMOS operational amplifier using **UMC 180 nm technology in Cadence Virtuoso**, incorporating a differential input stage, current-mirror active load, second-stage common-source amplifier, and Miller frequency compensation.
+
+**Simulation Results:**
+
+- DC Gain: ≈ **58 dB**
+- Gain-Bandwidth Product: ≈ **27.13 MHz**
+- Phase Margin: ≈ **60°**
+- Power Consumption: **0.3 mW**
+- Supply Voltage: **1.8 V**
+
+---
+
+### 🔬 Bandgap Reference Circuit
+
+Designed and analyzed a **CMOS Bandgap Reference circuit** with emphasis on bias generation, reference voltage generation, and circuit performance across operating conditions.
+
+---
+
+### 🔬 PLL Design
+
+Currently exploring **Phase-Locked Loop (PLL) design**, focusing on the fundamental building blocks and their interactions in frequency synthesis systems.
+
+---
+
+## 🛠️ Tools & Technologies
+
+**EDA Tools**
+- Cadence Virtuoso
+- Cadence Spectre
+- SPICE
+
+**Core Technologies**
+- CMOS
+- MOSFET
+- Analog VLSI
+- Mixed-Signal IC Design
+- Transistor-Level Circuit Design
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Analog IC Design
+- Op-Amp Design & Compensation
+- PLL & Frequency Synthesizers
+- LDO Design
+- Noise Analysis
+- Pole-Zero Analysis
+- Analog Layout & Matching
+- PVT & Monte Carlo Analysis
+
+---
+
+## 🎯 Areas of Interest
+
+**Analog IC Design • Mixed-Signal IC Design • CMOS Circuits • Amplifiers • References • PLLs • Power Management**
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [Yuvaraj Dhayal D](YOUR_LINKEDIN_URL)
+- 🐙 GitHub: [yugsdhdsj256753](https://github.com/yugsdhdsj256753)
+
+---
+
+⭐ I am continuously building and documenting my analog IC design projects to strengthen my understanding of transistor-level circuit design.
