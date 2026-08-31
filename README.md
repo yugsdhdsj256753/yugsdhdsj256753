@@ -9,7 +9,7 @@ I am an M.Tech VLSI Design student passionate about **Analog and Mixed-Signal IC
 
 ##  Areas of Interest
 
-**- Analog IC Design
+  - Analog IC Design
   - Mixed-Signal IC Design
   - CMOS Circuits
   - Amplifiers
