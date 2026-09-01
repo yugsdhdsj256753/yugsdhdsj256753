@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Yuvaraj Dhayal D
 
-###  🔹Analog IC Design Enthusiast | Phd Aspirant | VLSI Design | CMOS Circuit Design
+###  🔹Analog IC Design Enthusiast  | VLSI Design | CMOS Circuit Design
 
 - 🎓 M.Tech in VLSI design , VIT Vellore
 - 🔬 Design and characterize CMOS analog circuits in Cadence Virtuoso, using generic PDKs (UMC 180, GPDK090)
