@@ -28,7 +28,7 @@
 
 ##  🔹Let's Connect
 
--  LinkedIn: [Yuvaraj Dhayal D](YOUR_LINKEDIN_URL)
+-  LinkedIn: [Yuvaraj Dhayal D](www.linkedin.com/in/yuvaraj-dhayal-d-951687290)
 -  GitHub: [yugsdhdsj256753](https://github.com/yugsdhdsj256753)
 
 ---
