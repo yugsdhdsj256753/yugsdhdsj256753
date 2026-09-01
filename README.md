@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Yuvaraj Dhayal D
 
-###  Analog IC Design Enthusiast | VLSI Design | CMOS Circuit Design
+###  Analog IC Design Enthusiast | Phd Aspirant | VLSI Design | CMOS Circuit Design
 
 I am an M.Tech VLSI Design student passionate about **Analog and Mixed-Signal IC Design**. I enjoy designing, analyzing, and optimizing transistor-level CMOS circuits and understanding their behavior from first principles.
 
