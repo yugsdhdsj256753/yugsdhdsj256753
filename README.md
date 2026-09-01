@@ -24,7 +24,8 @@
 - SPICE
 ---
 ## 🔹 Featured Analog IC Design Projects
-📌 [Two-Stage Op-Amp](https://github.com/yugsdhdsj256753/Design-and-analysis-of-two-stage-CMOS-operational-amplifier) — GPDK180 Folded-cascode input, push-pull output, Miller-compensated two-stage op-amp. Fully characterized: 70dB DC gain, ~500MHz+ GBW, CMRR/PSRR, noise, and power — with root-cause analysis of a phase margin limitation traced back to the compensation network.
+📌 [Two-Stage Op-Amp](https://github.com/yugsdhdsj256753/Design-and-analysis-of-two-stage-CMOS-operational-amplifier) — Designed a **two-stage CMOS operational amplifier using UMC 180 nm technology**. Performed comprehensive **DC, AC, transient, and power analysis** to evaluate circuit performance. Extracted and analyzed the **poles and zeros**, gain, bandwidth, phase margin, and transient response to understand the amplifier's frequency response and stability.
+
 
 📌 Bandgap Voltage Reference — GPDK090 Bipolar (BJT ΔVBE) PTAT/CTAT bandgap core. Characterized across temperature (−50°C to 150°C), supply variation, and startup behavior — with cross-validated PSRR and line regulation results.
 ##  🔹Let's Connect
