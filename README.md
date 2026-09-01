@@ -23,7 +23,10 @@
 - Cadence Spectre
 - SPICE
 ---
+## 🔹 Featured Analog IC Design Projects
+📌 Two-Stage Op-Amp — GPDK180 Folded-cascode input, push-pull output, Miller-compensated two-stage op-amp. Fully characterized: 70dB DC gain, ~500MHz+ GBW, CMRR/PSRR, noise, and power — with root-cause analysis of a phase margin limitation traced back to the compensation network.
 
+📌 Bandgap Voltage Reference — GPDK090 Bipolar (BJT ΔVBE) PTAT/CTAT bandgap core. Characterized across temperature (−50°C to 150°C), supply variation, and startup behavior — with cross-validated PSRR and line regulation results.
 ##  🔹Let's Connect
 
 -  LinkedIn: [Yuvaraj Dhayal D](YOUR_LINKEDIN_URL)
