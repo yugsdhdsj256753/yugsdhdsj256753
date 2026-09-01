@@ -5,7 +5,7 @@
 
 - 🎓 M.Tech in VLSI design , VIT Vellore
 - 🔬 Design and characterize CMOS analog circuits in Cadence Virtuoso, using generic PDKs (UMC 180, GPDK090)
-- 📊 Strong emphasis on full-spec characterization — gain, bandwidth, stability, PSRR, CMRR, noise, and power — not just functional verification
+- 📊 Strong emphasis on full-spec characterization — gain, bandwidth, stability, noise, and power 
 - 🧠 Comfortable tracing simulation results back to root-cause circuit behavior (e.g., diagnosing a stability issue back to a missing compensation resistor)
 - ✨ Believer in continuous learning & documenting work thoroughly — every project is written up with full methodology, not just results
 ---
