@@ -3,8 +3,11 @@
 
 ###  Analog IC Design Enthusiast | Phd Aspirant | VLSI Design | CMOS Circuit Design
 
-I am an M.Tech VLSI Design student passionate about **Analog and Mixed-Signal IC Design**. I enjoy designing, analyzing, and optimizing transistor-level CMOS circuits and understanding their behavior from first principles.
-
+- 🎓 M.Tech in VLSI design , VIT Vellore
+- 🔬 Design and characterize CMOS analog circuits in Cadence Virtuoso, using generic PDKs (UMC 180, GPDK090)
+- 📊 Strong emphasis on full-spec characterization — gain, bandwidth, stability, PSRR, CMRR, noise, and power — not just functional verification
+- 🧠 Comfortable tracing simulation results back to root-cause circuit behavior (e.g., diagnosing a stability issue back to a missing compensation resistor)
+- ✨ Believer in continuous learning & documenting work thoroughly — every project is written up with full methodology, not just results
 ---
 
 ##  Areas of Interest
