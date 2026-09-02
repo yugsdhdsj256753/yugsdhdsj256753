@@ -26,7 +26,7 @@
 ## 🔹 Featured Analog IC Design Projects
 📌 [Two-Stage Op-Amp](https://github.com/yugsdhdsj256753/Design-and-analysis-of-two-stage-CMOS-operational-amplifier) — Designed a **two-stage CMOS operational amplifier using UMC 180 nm technology**. Performed comprehensive **DC, AC, transient, and power analysis** to evaluate circuit performance. Extracted and analyzed the **poles and zeros**, gain, bandwidth, phase margin, and transient response to understand the amplifier's frequency response and stability.
 
-📌 [Folded-Cascode-Amplifier]https://github.com/yugsdhdsj256753/Design-of-fully-differential-Telescopic-Cascode-Amplifier-by-PDM-method - Design and simulation of a fully differential Telescopic Cascode Amplifier using UMC 180 nm CMOS technology in Cadence Virtuoso. The project uses the Potential Distribution Method (PDM) and includes DC, AC, transient, and pole-zero analyses. Achieved a gain of 60.17 dB, phase margin of 93.25°, and unity-gain frequency of 156.49 MHz.
+📌 [Folded-Cascode-Amplifier](https://github.com/yugsdhdsj256753/Design-of-fully-differential-Telescopic-Cascode-Amplifier-by-PDM-method) - Design and simulation of a fully differential Telescopic Cascode Amplifier using UMC 180 nm CMOS technology in Cadence Virtuoso. The project uses the Potential Distribution Method (PDM) and includes DC, AC, transient, and pole-zero analyses. Achieved a gain of 60.17 dB, phase margin of 93.25°, and unity-gain frequency of 156.49 MHz.
 
 ##  🔹Let's Connect
 
