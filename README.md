@@ -14,6 +14,7 @@
 
   - Analog IC Design
   - Mixed-Signal IC Design
+  - RFIC Design
   - CMOS Circuits
   - Amplifiers
   - Band gap References
